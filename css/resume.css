@@ -200,12 +200,12 @@ p {
   text-indent: 0;
 }
 .project {
-  padding-left:20px;
+  padding-left:50px;
 }
 
-.project-description{
-  padding-bottom:20px;
-}
+/* .project-description{
+  padding-bottom:10px;
+} */
 .side-heading {
  text-transform: uppercase;
  font-weight: 400;
